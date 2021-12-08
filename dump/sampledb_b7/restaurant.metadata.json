@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"type_of_food":{"$numberDouble":"1.0"}},"name":"type_of_food_1"}],"uuid":"fcb6d6a82d1e420ba71987f3c28e8129","collectionName":"restaurant","type":"collection"}
